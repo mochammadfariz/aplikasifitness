@@ -30,7 +30,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="14dp"
             android:fontFamily="@font/kanit_medium"
-            android:text="Create"
+            android:text="Create Account"
             android:textColor="#3f4658"
             android:textSize="28dp" />
 
@@ -118,7 +118,7 @@
             <ImageView
                 android:layout_width="28dp"
                 android:layout_height="32dp"
-                android:src="@drawable/fb_ic" />
+                android:src="@drawable/fb_icon" />
 
             <ImageView
                 android:layout_width="28dp"
